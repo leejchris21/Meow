@@ -1,2 +1,2 @@
 # Meow
-Modular Embedded Operations Worker
+Modular Embedded Operations Wizard
